@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HomeWork8" parallel="false">
+    <test name="HomeWork_8_1">
+        <classes>
+            <class name="lesson8_homework.HomeWork_3">
+                <methods>
+                    <include name="oneTest"/>
+                    <include name="fiveTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

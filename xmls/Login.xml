@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="KismiaTest" parallel="false">
+    <test name="Test1">
+        <parameter name="email" value="Vika.smile1993@mail.ru"></parameter>
+        <parameter name="password" value="1234"></parameter>
+        <classes>
+            <class name="lesson5.LoginKismia"></class>
+        </classes>
+    </test>
+</suite>
