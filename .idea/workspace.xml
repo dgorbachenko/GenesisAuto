@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a7028bc-0a32-4641-8d74-4d151054b47c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson6/LessUser.java" afterPath="$PROJECT_DIR$/src/main/java/lesson6/LessUser.java" />
     </list>
     <ignored path="les.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="LessUser.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson6/LessUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -82,7 +82,6 @@
         <option value="$PROJECT_DIR$/src/main/java/lesson9/packege2/TestExemple2.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson9/packege1/Incapsulation.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson9/packege2/ProtectedExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson6/LessUser.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson9/packageExtends/Child.java" />
         <option value="$PROJECT_DIR$/xml/HomeWork_8_2.xml" />
         <option value="$PROJECT_DIR$/xml/HomeWork_8_1.xml" />
@@ -116,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/test/java/lesson15Test/LoginTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson6/User.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson6/LessUser.java" />
       </list>
     </option>
   </component>
@@ -845,7 +845,14 @@
       <option name="project" value="LOCAL" />
       <updated>1479970644961</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson15">
+      <created>1479971070582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1479971070582</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1325,8 +1332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson6/LessUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding />
         </state>
       </provider>
