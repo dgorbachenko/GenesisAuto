@@ -11,6 +11,7 @@ public class Array {
         a [2] = 3;
         char b  [] = {'a','b','1'};
         boolean hool [] = {true, true, false};
+        System.out.println(a);
 
     }
 }

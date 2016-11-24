@@ -34,7 +34,7 @@ public class ExceptionExample {
 
 
     @Test
-    public void alala (){
+    public void test (){
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 

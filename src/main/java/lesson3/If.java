@@ -11,7 +11,7 @@ public class If {
 //            System.out.println("b - true");
 //        }
 
-        int a = 4;
+        int a = 6;
         int b = 6;
         System.out.println(a == b? "a and b yes" : "a i b not");
     }
