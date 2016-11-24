@@ -20,7 +20,6 @@ import java.util.concurrent.TimeUnit;
 public class LoginTest {
     WebDriver driver;
     User userForTest = new User("d.gorbachenko89@gmail.com", "gverty");
-
     @BeforeTest
     public void setUpBrowser () {
         driver = new ChromeDriver();
