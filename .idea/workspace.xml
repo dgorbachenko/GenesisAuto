@@ -2,94 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a7028bc-0a32-4641-8d74-4d151054b47c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson13/HomeWork.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson13/MapExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson13/SetExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson13/listExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson15/PageObject/MainPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson15/PageObject/RegForm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lesson15Test/LoginTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson1/AutorizationForFacebook.class" afterPath="$PROJECT_DIR$/target/classes/lesson1/AutorizationForFacebook.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson1/GoogleSearch.class" afterPath="$PROJECT_DIR$/target/classes/lesson1/GoogleSearch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson1/HelloWorld.class" afterPath="$PROJECT_DIR$/target/classes/lesson1/HelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson10/Enigma.class" afterPath="$PROJECT_DIR$/target/classes/lesson10/Enigma.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson10/Enigma2.class" afterPath="$PROJECT_DIR$/target/classes/lesson10/Enigma2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson10/ExampleSB.class" afterPath="$PROJECT_DIR$/target/classes/lesson10/ExampleSB.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson10/ExampleSB2.class" afterPath="$PROJECT_DIR$/target/classes/lesson10/ExampleSB2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson10/LessonExempleStringBuilder.class" afterPath="$PROJECT_DIR$/target/classes/lesson10/LessonExempleStringBuilder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson11/ExceptionExample.class" afterPath="$PROJECT_DIR$/target/classes/lesson11/ExceptionExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson2/HomeWork.class" afterPath="$PROJECT_DIR$/target/classes/lesson2/HomeWork.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson2/JavaOperation.class" afterPath="$PROJECT_DIR$/target/classes/lesson2/JavaOperation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson2/JavaVar2.class" afterPath="$PROJECT_DIR$/target/classes/lesson2/JavaVar2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson2/JavaVariabls.class" afterPath="$PROJECT_DIR$/target/classes/lesson2/JavaVariabls.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson2/JavaVariadle.class" afterPath="$PROJECT_DIR$/target/classes/lesson2/JavaVariadle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson2/JavaVariadle1.class" afterPath="$PROJECT_DIR$/target/classes/lesson2/JavaVariadle1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson2/JavaWrapperClass.class" afterPath="$PROJECT_DIR$/target/classes/lesson2/JavaWrapperClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson2/ReadFromConsole.class" afterPath="$PROJECT_DIR$/target/classes/lesson2/ReadFromConsole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson3/CasesExemple.class" afterPath="$PROJECT_DIR$/target/classes/lesson3/CasesExemple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson3/Cycles.class" afterPath="$PROJECT_DIR$/target/classes/lesson3/Cycles.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson3/Exs.class" afterPath="$PROJECT_DIR$/target/classes/lesson3/Exs.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson3/If.class" afterPath="$PROJECT_DIR$/target/classes/lesson3/If.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson3/Metods.class" afterPath="$PROJECT_DIR$/target/classes/lesson3/Metods.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork1.class" afterPath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork2.class" afterPath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork4.class" afterPath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork5.class" afterPath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork6.class" afterPath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork7.class" afterPath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork8.class" afterPath="$PROJECT_DIR$/target/classes/lesson3a/HomeWork8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson4/Array.class" afterPath="$PROJECT_DIR$/target/classes/lesson4/Array.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson4/ArrayInisialization.class" afterPath="$PROJECT_DIR$/target/classes/lesson4/ArrayInisialization.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson4/ArraysForEach.class" afterPath="$PROJECT_DIR$/target/classes/lesson4/ArraysForEach.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson4/ArraysMetods.class" afterPath="$PROJECT_DIR$/target/classes/lesson4/ArraysMetods.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson4/BubbleSoft.class" afterPath="$PROJECT_DIR$/target/classes/lesson4/BubbleSoft.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson4/CyclesAndArrays.class" afterPath="$PROJECT_DIR$/target/classes/lesson4/CyclesAndArrays.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson4/Less1.class" afterPath="$PROJECT_DIR$/target/classes/lesson4/Less1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson4/less.class" afterPath="$PROJECT_DIR$/target/classes/lesson4/less.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson4a/Homework1.class" afterPath="$PROJECT_DIR$/target/classes/lesson4a/Homework1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson5/Silenium.class" afterPath="$PROJECT_DIR$/target/classes/lesson5/Silenium.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson6/AboutString.class" afterPath="$PROJECT_DIR$/target/classes/lesson6/AboutString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson6/Arrays.class" afterPath="$PROJECT_DIR$/target/classes/lesson6/Arrays.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson6/Concat.class" afterPath="$PROJECT_DIR$/target/classes/lesson6/Concat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson6/HomeWork.class" afterPath="$PROJECT_DIR$/target/classes/lesson6/HomeWork.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson6/LessUser.class" afterPath="$PROJECT_DIR$/target/classes/lesson6/LessUser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson6/LessonArrays.class" afterPath="$PROJECT_DIR$/target/classes/lesson6/LessonArrays.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson6/User.class" afterPath="$PROJECT_DIR$/target/classes/lesson6/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson6a/HomeWork1.class" afterPath="$PROJECT_DIR$/target/classes/lesson6a/HomeWork1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson6a/HomeWork2.class" afterPath="$PROJECT_DIR$/target/classes/lesson6a/HomeWork2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson6a/HomeWorkProgram.class" afterPath="$PROJECT_DIR$/target/classes/lesson6a/HomeWorkProgram.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson6a/SileniumBanks.class" afterPath="$PROJECT_DIR$/target/classes/lesson6a/SileniumBanks.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson9/packageExtends/Child.class" afterPath="$PROJECT_DIR$/target/classes/lesson9/packageExtends/Child.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson9/packageExtends/Parent.class" afterPath="$PROJECT_DIR$/target/classes/lesson9/packageExtends/Parent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson9/packageExtends/TestExtendExample.class" afterPath="$PROJECT_DIR$/target/classes/lesson9/packageExtends/TestExtendExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson9/packege1/Incapsulation.class" afterPath="$PROJECT_DIR$/target/classes/lesson9/packege1/Incapsulation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson9/packege1/TestExemple.class" afterPath="$PROJECT_DIR$/target/classes/lesson9/packege1/TestExemple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson9/packege2/ProtectedExample.class" afterPath="$PROJECT_DIR$/target/classes/lesson9/packege2/ProtectedExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson9/packege2/TestExemple2.class" afterPath="$PROJECT_DIR$/target/classes/lesson9/packege2/TestExemple2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson9a/Footballer.class" afterPath="$PROJECT_DIR$/target/classes/lesson9a/Footballer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson9a/Main.class" afterPath="$PROJECT_DIR$/target/classes/lesson9a/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson9a/People.class" afterPath="$PROJECT_DIR$/target/classes/lesson9a/People.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson9a/Schoolboy.class" afterPath="$PROJECT_DIR$/target/classes/lesson9a/Schoolboy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson9a/Student.class" afterPath="$PROJECT_DIR$/target/classes/lesson9a/Student.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pageObject/Constants.class" afterPath="$PROJECT_DIR$/target/classes/pageObject/Constants.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pageObject/MainPage.class" afterPath="$PROJECT_DIR$/target/classes/pageObject/MainPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pageObject/ProfilePage.class" afterPath="$PROJECT_DIR$/target/classes/pageObject/ProfilePage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/LessonTest/Currency.class" afterPath="$PROJECT_DIR$/target/test-classes/LessonTest/Currency.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/lesson5/EditProfile.class" afterPath="$PROJECT_DIR$/target/test-classes/lesson5/EditProfile.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/lesson5/LoginKismia.class" afterPath="$PROJECT_DIR$/target/test-classes/lesson5/LoginKismia.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/lesson8/LoginTestKissMia.class" afterPath="$PROJECT_DIR$/target/test-classes/lesson8/LoginTestKissMia.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/lesson8/TestNGTestClass.class" afterPath="$PROJECT_DIR$/target/test-classes/lesson8/TestNGTestClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/lesson8/TestNgBeforTest.class" afterPath="$PROJECT_DIR$/target/test-classes/lesson8/TestNgBeforTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/lesson8/TestNgDataProvider.class" afterPath="$PROJECT_DIR$/target/test-classes/lesson8/TestNgDataProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/lesson8/TestNgTestMetods.class" afterPath="$PROJECT_DIR$/target/test-classes/lesson8/TestNgTestMetods.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/lesson8_homework/HomeWork_1.class" afterPath="$PROJECT_DIR$/target/test-classes/lesson8_homework/HomeWork_1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/lesson8_homework/HomeWork_2.class" afterPath="$PROJECT_DIR$/target/test-classes/lesson8_homework/HomeWork_2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/lesson8_homework/HomeWork_3.class" afterPath="$PROJECT_DIR$/target/test-classes/lesson8_homework/HomeWork_3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/les.iml" afterPath="$PROJECT_DIR$/les.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson6/User.java" afterPath="$PROJECT_DIR$/src/main/java/lesson6/User.java" />
     </list>
     <ignored path="les.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -122,8 +36,8 @@
       <file leaf-file-name="LessUser.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson6/LessUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -192,7 +106,6 @@
         <option value="$PROJECT_DIR$/src/main/java/lesson10/Enigma.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson11/HomeWork.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson11/ExceptionExample.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/lesson13/IteratorExample.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/lesson13/listExample.java" />
@@ -202,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/main/java/lesson15/PageObject/RegForm.java" />
         <option value="$PROJECT_DIR$/src/test/java/lesson15Test/LoginTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson6/User.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -226,7 +140,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -254,7 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -479,6 +392,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
@@ -924,6 +838,14 @@
       <workItem from="1477030304561" duration="4071000" />
       <workItem from="1477898425652" duration="178000" />
     </task>
+    <task id="LOCAL-00001" summary="lesson15">
+      <created>1479970644961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479970644961</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -971,8 +893,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.4969651" order="0" side_tool="false" content_ui="tabs" />
@@ -980,12 +902,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33172303" sideWeight="0.50907713" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22422259" sideWeight="0.49092284" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.4969651" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24127465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24054463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1034,6 +956,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson15" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1200,13 +1126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1396,10 +1315,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson6/LessUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
