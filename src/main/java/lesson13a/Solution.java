@@ -64,7 +64,7 @@ public class Solution
     public static Set<Dog> createDogs()
     {
         HashSet<Dog> result = new HashSet<Dog>();
-        //И собаки
+       /* //И собаки*/
         for (int i = 0; i < 3; i++)
         {
             Dog dog = new Dog();
